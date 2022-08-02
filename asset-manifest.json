@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abhiimali.github.io/static/css/main.aae0de1b.css",
-    "main.js": "/abhiimali.github.io/static/js/main.ef52b9c5.js",
-    "static/media/about_anime.gif": "/abhiimali.github.io/static/media/about_anime.986764c2696118dcbe90.gif",
-    "static/media/home_anime.gif": "/abhiimali.github.io/static/media/home_anime.f372ef867ab6dc71a52b.gif",
-    "index.html": "/abhiimali.github.io/index.html",
-    "main.aae0de1b.css.map": "/abhiimali.github.io/static/css/main.aae0de1b.css.map",
-    "main.ef52b9c5.js.map": "/abhiimali.github.io/static/js/main.ef52b9c5.js.map"
+    "main.css": "/static/css/main.aae0de1b.css",
+    "main.js": "/static/js/main.d499c2de.js",
+    "static/media/about_anime.gif": "/static/media/about_anime.986764c2696118dcbe90.gif",
+    "static/media/home_anime.gif": "/static/media/home_anime.f372ef867ab6dc71a52b.gif",
+    "index.html": "/index.html",
+    "main.aae0de1b.css.map": "/static/css/main.aae0de1b.css.map",
+    "main.d499c2de.js.map": "/static/js/main.d499c2de.js.map"
   },
   "entrypoints": [
     "static/css/main.aae0de1b.css",
-    "static/js/main.ef52b9c5.js"
+    "static/js/main.d499c2de.js"
   ]
 }
