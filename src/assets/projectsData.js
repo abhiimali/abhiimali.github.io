@@ -18,6 +18,16 @@ export const projectsData = [
         liveUrl :'https://typinggmaster.netlify.app/'
     },
     
+     {
+        projectName: 'Typing Master  New   ',
+        projectDescription:
+            'Having a good typing speed will always help you as a developer! Here, I present you the typing speed test application, where you can check your typing speed (in wpm) and share the results with your friends too.',
+        imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj2.PNG',
+        
+        projectUrl: 'https://github.com/abhiimali/TypingMaster',
+        liveUrl :'https://typinggmaster.netlify.app/'
+    },
+    
     
     
 ];
