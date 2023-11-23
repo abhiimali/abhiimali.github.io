@@ -1,0 +1,32 @@
+/* Add this CSS to your stylesheet */
+.pdf-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border: 2px solid black; /* Border around the PDF container */
+  }
+  
+  .pdf-container > iframe {
+    width: 100%;
+    height: 100%;
+    border: none; /* Remove iframe border */
+    overflow-y: hidden; /* Hide vertical scrollbar */
+  }
+  
+  /* Hide scrollbar */
+  .pdf-container > iframe::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Optional: Style scrollbar if necessary */
+  .pdf-container > iframe {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE/Edge */
+  }
+  

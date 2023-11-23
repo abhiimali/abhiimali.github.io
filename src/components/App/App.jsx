@@ -10,6 +10,7 @@ import About from './../About/About'
 import './../../components/App/App.css'
 import NavBar from '../NavBar/NavBar';
 import Blogs from '../Blogs/Blogs';
+import Resume from '../Resume/resume';
 
 
 const App = () => {
@@ -21,13 +22,14 @@ const App = () => {
           <NavBar />
           <Routes >
 
-            <Route path="/" element={<Home />} />
+            <Route path="/" element={<Home/>} />
 
             <Route path="/About" element={<About />} />
             <Route path="/Skills" element={<Skills />} />
             <Route path="/Projects" element={<Projects />} />
             <Route path="/Contact" element={<Contact />} />
-            <Route path="/Blogs" element={<Blogs/>} />
+            <Route path="/cv" element={<Resume/>} />
+            <Route path="/Resume" element={<Blogs/>} />
           </Routes>
 
 
